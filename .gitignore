@@ -1,0 +1,15 @@
+# Ignorar arquivos sensíveis e temporários
+serviceAccountKey.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
