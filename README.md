@@ -1,4 +1,4 @@
-# H2OControl API
+#API
 
 API desenvolvida em Python com FastAPI para receber dados de sensores (ESP32) e armazenar no Firestore (Firebase).
 
